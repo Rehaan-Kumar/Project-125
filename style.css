@@ -1,0 +1,60 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    box-shadow: 5px 5px 15px grey;
+}
+
+.note {
+    font-size: 16px;
+    color: black;
+}
+
+.copy-right-footer {
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    background-color: grey;
+    width: 100%;
+}
+
+canvas {
+    border: 5px solid grey;
+    background-color: rgb(180, 177, 177);
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+}
+
+video {
+    border: 5px solid grey;
+    background-color: rgb(180, 177, 177);
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+} 
+
+#value {
+    height: 27px;
+    width: 250px;
+    font-size: 18;
+    font-family: cursive;
+    background-color: rgb(238, 238, 94);
+    color: grey;
+    border: 3px solid grey;
+    box-shadow: 3px 3px 15px grey;
+    margin: 5px;
+}
+
+#btn {
+    font-size: 18px;
+    box-shadow: 3px 3px 15px grey;
+    width: 100px;
+    height: 27px;
+    padding-bottom: 30px;
+}
